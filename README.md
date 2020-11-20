@@ -1,17 +1,17 @@
 # ws_santecorp
-Projeito de Automação do Workstation SantéCorp
+<h1>Projeto de Automação do Workstation SantéCorp</h1>
 
-1º Passo:
+<h2>1º Passo:</h2>
 Clonar o projeto
 
-2º Passo:
+<h2>2º Passo:</h2>
 Entrar na pasta do projeto
 
-3º Passo:
+<h2>3º Passo:</h2>
 Instalar as Gems
 $ bundle install
 
-4º Passo
+<h2>4º Passo</h2>
 Executar o projeto
 $ cucumber
 

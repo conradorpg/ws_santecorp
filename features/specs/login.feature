@@ -13,8 +13,5 @@ Esquema do Cenário: Realizando login
     Então devo receber a mensagem "<mensagem>"
 
 Exemplos:
-|email                          |senha     |mensagem                                                  |
-|eu@mail.net                    |Mup01680  |Houve um problema com o login, verifique suas credenciais.|
-|usuario.teste@santecorp.com.br |111222    |Houve um problema com o login, verifique suas credenciais.|
-|eu@mail.net                    |111222    |Houve um problema com o login, verifique suas credenciais.|
-|usuario.teste@santecorp.com.br |Mup01680  |Ativar notificação sonora                                 |
+|email                          |senha     |mensagem                    |
+|seu@mail.net                   |111222    |login realizado com sucesso!|
